@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
-<p align='center' style="color:blue;font-size:20px;">A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
-Sophomore at VIT, Vellore.<br>
+<p align='center' style="color:blue;font-size:20px;"><h4>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
+Sophomore at VIT, Vellore.</h4><br>
  <ul><strong>
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=30> I’m currently working on Frontend Web Development.</li>
 <li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=30> I’m currently learning Data Science and Machine Learning 🤓.</li>
