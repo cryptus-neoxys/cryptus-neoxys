@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <p align='center' style="font-size: 12px;">A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.<br>
  <ul><strong>
-<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" width=30 height=30> I’m currently working on Frontend Web Development.</li>
+<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=30> I’m currently working on Frontend Web Development.</li>
 <li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=30> I’m currently learning Data Science and Machine Learning 🤓.</li>
-<li>👯 I’m looking to collaborate on fun projects and hackathons 🚀.</li>
-<li>🤔 I’m looking for help with Data Science projects 🏫.</li>
-<li>💬 Ask me about Web design & Web Development 🕸.</li>
+<li><img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" height=30> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
+<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=30> I’m looking for help with Data Science projects 🏫.</li>
+<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=30> Ask me about Web design & Web Development 🕸.</li>
 <li>😄 Pronouns: Dev(eloper)</li>
 <li>⚡ Fun fact: Code that works on Friday may not work on monday</li>
  </strong></ul>
