@@ -35,7 +35,7 @@ Sophomore at VIT, Vellore.</h3><br>
 <a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <br></p>
-## Tools & Technologies
+<h2> Tools & Technologies</h2>
 <table>
   <tbody>
     <tr valign="top">
