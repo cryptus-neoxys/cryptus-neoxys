@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Sophomore at VIT, Vellore.<br>
  <ul><strong>
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" width=30 height=30> I’m currently working on Frontend Web Development.</li>
-<li><img src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif" height=30> I’m currently learning Data Science and Machine Learning 🤓.</li>
+<li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=30> I’m currently learning Data Science and Machine Learning 🤓.</li>
 <li>👯 I’m looking to collaborate on fun projects and hackathons 🚀.</li>
 <li>🤔 I’m looking for help with Data Science projects 🏫.</li>
 <li>💬 Ask me about Web design & Web Development 🕸.</li>
