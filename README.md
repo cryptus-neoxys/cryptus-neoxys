@@ -52,8 +52,8 @@ Sophomore at VIT, Vellore.</h3><br>
         <img height="64px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>NodeJS</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+        <span><strong>ReactJS</strong></span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303157/react-logo.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -62,16 +62,16 @@ Sophomore at VIT, Vellore.</h3><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Adobe XD</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
-      </td>
-      <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Adobe Illustrator</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
+        <span><strong>C++</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Python</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
 
