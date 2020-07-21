@@ -28,13 +28,6 @@ Sophomore at VIT, Vellore.</h3><br>
 <li>⚡ Fun fact: <em>Code that works on Friday may not work on monday</em></li>
  </strong></ul>
 </p>
-<h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
- <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-<br></p>
 <h2> Tools & Technologies</h2>
 <table>
   <tbody>
@@ -74,8 +67,15 @@ Sophomore at VIT, Vellore.</h3><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
-
   </tbody>
 </table>
+
+<h2 align='center'>Connect with me  📫 </h2>
+<p align = 'center'> 
+ <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
+<a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
+<a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='45' weight='45'/></a>
+<a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
+<br></p><hr>
 
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=radical)
