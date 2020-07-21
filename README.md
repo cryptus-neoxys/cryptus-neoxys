@@ -36,4 +36,4 @@ Sophomore at VIT, Vellore.</h3><br>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <br></p>
 
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false)
+![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=radical)
