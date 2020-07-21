@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore
-- <img src="https://img-a.udemycdn.com/course/750x422/2527374_97f3_2.jpg" width=25 height=25> I’m currently working on Web Apps.
-- <img src="https://www.datacamp.com/datacamp-sq.png" width=25 height=25> I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on fun projects 🤓 and hackathons 🚀.
-- 🤔 I’m looking for help with Data Science projects 🏫.
-- 💬 Ask me about Web design & Web Development 🕸.
-- 😄 Pronouns: Dev(eloper)
-- ⚡ Fun fact: Error 404
+- <img src="https://img-a.udemycdn.com/course/750x422/2527374_97f3_2.jpg" width=25 height=25> I’m currently working on Web Apps.<br>
+- <img src="https://www.datacamp.com/datacamp-sq.png" height=25> I’m currently learning Data Science and Machine Learning 🤓.<br>
+- 👯 I’m looking to collaborate on fun projects and hackathons 🚀.<br>
+- 🤔 I’m looking for help with Data Science projects 🏫.<br>
+- 💬 Ask me about Web design & Web Development 🕸.<br>
+- 😄 Pronouns: Dev(eloper)<br>
+- ⚡ Fun fact: Error 404<br>
 </p>
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
@@ -33,5 +33,5 @@ Sophomore at VIT, Vellore
 <a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <br>
- 
+ <center>
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false)
