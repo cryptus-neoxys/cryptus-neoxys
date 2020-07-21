@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h2 align='center'>About Me🤓</h2>
 <p align='center' style="font-size: 12px;">A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.<br>
- <ul >
+ <ul><strong>
 <li><img src="https://www.netclipart.com/pp/m/76-765962_columns-clipart-training-institute-html-css-javascript-svg.png" width=25 height=25> I’m currently working on Frontend Web Development.</li>
 <li><img src="https://www.datacamp.com/datacamp-sq.png" height=25> I’m currently learning Data Science and Machine Learning 🤓.</li>
 <li>👯 I’m looking to collaborate on fun projects and hackathons 🚀.</li>
 <li>🤔 I’m looking for help with Data Science projects 🏫.</li>
 <li>💬 Ask me about Web design & Web Development 🕸.</li>
 <li>😄 Pronouns: Dev(eloper)</li>
-<li>⚡ Fun fact: Error 404</li>
- </ul>
+<li>⚡ Fun fact: Code that works on Friday may not work on monday</li>
+ </strong></ul>
 </p>
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
