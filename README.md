@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.
+<p align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore</p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<br>
+ 
+![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false)
