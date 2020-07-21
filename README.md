@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
-<p align='center' style="color:blue;font-size:20px;"><h3 align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
+<p align='center'><h3 align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.</h3><br>
  <ul><strong>
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=30> I’m currently working on Frontend Web Development.</li>
@@ -35,5 +35,47 @@ Sophomore at VIT, Vellore.</h3><br>
 <a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <br></p>
+## Tools & Technologies
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>HTML</strong></span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303205/html-5-logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>CSS</strong></span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>JavaScript</strong></span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>NodeJS</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Figma</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Adobe XD</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Adobe Illustrator</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
+      </td>
+    </tr>
+
+  </tbody>
+</table>
 
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=radical)
