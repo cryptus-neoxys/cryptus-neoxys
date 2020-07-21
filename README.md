@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cryptus-neoxys/cryptus-neoxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,16 @@ Here are some ideas to get you started:
  <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
-Sophomore at VIT, Vellore</p><h2 align='center'>Connect with me  📫 </h2>
+Sophomore at VIT, Vellore
+- <img src="https://img-a.udemycdn.com/course/750x422/2527374_97f3_2.jpg" width=25 height=25> I’m currently working on Web Apps.
+- <img src="https://www.datacamp.com/datacamp-sq.png" width=25 height=25> I’m currently learning Data Science and Machine Learning
+- 👯 I’m looking to collaborate on fun projects 🤓 and hackathons 🚀.
+- 🤔 I’m looking for help with Data Science projects 🏫.
+- 💬 Ask me about Web design & Web Development 🕸.
+- 😄 Pronouns: Dev(eloper)
+- ⚡ Fun fact: Error 404
+</p>
+<h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
