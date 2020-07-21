@@ -25,7 +25,7 @@ Sophomore at VIT, Vellore.<br>
 <li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=30> I’m looking for help with Data Science projects 🏫.</li>
 <li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=30> Ask me about Web design & Web Development 🕸.</li>
 <li>😄 Pronouns: Dev(eloper)</li>
-<li>⚡ Fun fact: Code that works on Friday may not work on monday</li>
+<li>⚡ Fun fact: <em>Code that works on Friday may not work on monday</em></li>
  </strong></ul>
 </p>
 <h2 align='center'>Connect with me  📫 </h2>
