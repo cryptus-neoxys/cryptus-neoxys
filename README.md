@@ -22,11 +22,11 @@ Sophomore at VIT, Vellore.</h3><br>
  <ul><strong>
 <li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
 <li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=35 width=35> I’m currently learning Data Science and Machine Learning 🤓.</li>
-<li><img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" height=35 width=35> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
+<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
 <li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Data Science projects 🏫.</li>
 <li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web design & Web Development 🕸.</li>
-<li>😄 Pronouns: Dev(eloper)</li>
-<li>⚡ Fun fact: <em>Code that works on Friday may not work on monday</em></li>
+<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
+<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
  </strong></ul>
 </p>
 <h2> Tools & Technologies</h2>
