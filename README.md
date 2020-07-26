@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align='center'><h3 align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.</h3><br>
  <ul><strong>
-<li style="line-height: 40px"><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
+<li line-height='40px"><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
 <li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=35 width=35> I’m currently learning Data Science and Machine Learning 🤓.</li>
 <li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
 <li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Data Science projects 🏫.</li>
