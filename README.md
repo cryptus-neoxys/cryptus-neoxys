@@ -29,13 +29,10 @@ Sophomore at VIT, Vellore.</h3><br>
 <li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
  </strong></ul>
 </p>
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/kY2tKfsfyhU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
+<pre>
+	<li> Marshmellos </li>
+	<li> Pillows </li>
+<pre>
 <h2> Tools & Technologies</h2>
 <table>
   <tbody>
