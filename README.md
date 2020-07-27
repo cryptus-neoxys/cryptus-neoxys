@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align='center'>Hey 👋</h1>
+<h1 align='center'>Hey There👋</h1>
 <p align = 'center'></p>
  <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro1.gif" alt="Intro GIF" width=100%>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
