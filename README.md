@@ -12,27 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align='center'>Hey 👋, This is Dev Sharma</h1>
-<p align = 'center'> 
- <a href = https://www.linkedin.com/in/cryptus_neoxys target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
+<h1 align='center'>Hey 👋</h1>
+<p align = 'center'></p>
  <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro1.gif" alt="Intro GIF" width=100%>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.</h3><br>
- <ul><strong>
-<li line-height="40px"><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
-<li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=35 width=35> I’m currently learning Data Science and Machine Learning 🤓.</li>
-<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
-<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Data Science projects 🏫.</li>
-<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web design & Web Development 🕸.</li>
-<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
-<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
- </strong></ul>
+	 <ul><strong>
+	<li line-height="40px"><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
+	<li><img src="https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" height=35 width=35> I’m currently learning Data Science and Machine Learning 🤓.</li>
+	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m looking to collaborate on fun projects and hackathons 🚀.</li>
+	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Data Science projects 🏫.</li>
+	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web design & Web Development 🕸.</li>
+	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
+	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
+ 	</strong></ul>
 </p>
-<pre>
-	<li> Marshmellos </li>
-	<li> Pillows </li>
-<pre>
+
 <h2> Tools & Technologies</h2>
 <table>
   <tbody>
