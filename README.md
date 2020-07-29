@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align='center'>Hey There👋</h1>
 <p align = 'center'></p>
- <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro1.gif" alt="Intro GIF" width=100%>
+ <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100%>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A Frontend Web Developer, Data Science & Machine Learning Enthusiast.<br>
 Sophomore at VIT, Vellore.</h3><br>
