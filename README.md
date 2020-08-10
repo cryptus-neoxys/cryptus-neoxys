@@ -32,39 +32,47 @@ Sophomore at VIT, Vellore.</h3><br>
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
 	      <span><strong>HTML</strong></span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/303205/html-5-logo.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/303481/css-3-logo.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>ReactJS</strong></span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/303157/react-logo.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
         <span><strong>Figma</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>C++</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Flask</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
     </tr>
   </tbody>
@@ -79,12 +87,12 @@ Sophomore at VIT, Vellore.</h3><br>
 <a href = https://instagram.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <a href = https://www.facebook.com/cryptus.neoxys/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
 <br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
 </p>
 <h2></h2>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
