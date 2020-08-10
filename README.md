@@ -87,11 +87,4 @@ Sophomore at VIT, Vellore.</h3><br>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" />
 </a>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
