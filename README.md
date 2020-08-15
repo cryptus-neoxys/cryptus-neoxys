@@ -13,6 +13,8 @@ Sophomore at VIT, Vellore.</h3><br>
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
 </strong></ul>
 
+<h3> Recent Activity </h3>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#14](https://github.com//ADG-VIT/Portfolio/pull/14) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
 2. 💪 Opened PR [#2](https://github.com//ADG-VIT/Portfolio/pull/2) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
@@ -20,7 +22,7 @@ Sophomore at VIT, Vellore.</h3><br>
 
 </p>
 <details>
-<summary> <strong> 🛠 & 💻 Tools & Technologies </strong> </summary>
+<summary> <strong><h3> 🛠 & 💻 Tools & Technologies </h3></strong> </summary>
 <table>
   <tbody>
     <tr valign="top">
@@ -72,14 +74,14 @@ Sophomore at VIT, Vellore.</h3><br>
 </details>
 
 <details>
-<summary> <strong>🌟 GitHub Stats </strong> </summary>
+<summary> <strong><h3> 🌟 GitHub Stats </h3></strong> </summary>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 </details>
 
 <details>
-<summary> <strong>👨🏻‍💻 Most Used Languages </strong> </summary>
+	<summary> <strong><h3> 👨🏻‍💻 Most Used Languages </h3></strong></summary>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
