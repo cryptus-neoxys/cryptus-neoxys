@@ -25,10 +25,13 @@ Sophomore at VIT, Vellore.</h3><br>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web design & Web Development 🕸.</li>
 	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
- 	</strong></ul>
-</p>
+</strong></ul>
 
-<h2> Tools & Technologies</h2>
+<!--START_SECTION:activity-->
+
+</p>
+<details>
+<summary> <strong> 🛠 & 💻 Tools & Technologies </strong> </summary>
 <table>
   <tbody>
     <tr valign="top">
@@ -77,6 +80,21 @@ Sophomore at VIT, Vellore.</h3><br>
     </tr>
   </tbody>
 </table>
+</details>
+
+<details>
+<summary> <strong>🌟 GitHub Stats </strong> </summary>
+<a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+</a>
+</details>
+
+<details>
+<summary> <strong>👨🏻‍💻 Most Used Languages </strong> </summary>
+<a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
+</a>
+</details>
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
@@ -89,18 +107,3 @@ Sophomore at VIT, Vellore.</h3><br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
 </p>
-<h2></h2>
-<!--START_SECTION:activity-->
-
-<details>
-<summary> <strong>🌟 GitHub Stats </strong> </summary>
-<a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
-</a>
-</details>
-<details>
-<summary> <strong>👨🏻‍💻 Most Used Languages </strong> </summary>
-<a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
-</a>
-</details>
