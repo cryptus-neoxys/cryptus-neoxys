@@ -93,13 +93,13 @@ Sophomore at VIT, Vellore.</h3><br>
 <!--START_SECTION:activity-->
 
 <details>
-<summary> <strong><h3> GitHub Stats </strong> </h3></summary>
+<summary> <strong>🌟 GitHub Stats </strong> </summary>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 </details>
 <details>
-<summary> <strong><h3> Most Used Languages </h3></strong> </summary>
+<summary> <strong>👨🏻‍💻 Most Used Languages </strong> </summary>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
