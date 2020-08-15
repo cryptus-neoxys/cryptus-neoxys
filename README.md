@@ -14,6 +14,9 @@ Sophomore at VIT, Vellore.</h3><br>
 </strong></ul>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#14](https://github.com//ADG-VIT/Portfolio/pull/14) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
+2. 💪 Opened PR [#2](https://github.com//ADG-VIT/Portfolio/pull/2) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
+<!--END_SECTION:activity-->
 
 </p>
 <details>
