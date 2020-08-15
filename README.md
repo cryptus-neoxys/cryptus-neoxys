@@ -90,9 +90,17 @@ Sophomore at VIT, Vellore.</h3><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
 </p>
 <h2></h2>
+<!--START_SECTION:activity-->
+
+<details>
+<summary> <strong><h3> GitHub Stats </strong> </h3></summary>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
+</details>
+<details>
+<summary> <strong><h3> Most Used Languages </h3></strong> </summary>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
+</details>
