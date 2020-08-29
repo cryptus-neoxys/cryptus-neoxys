@@ -16,8 +16,8 @@ Sophomore at VIT, Vellore.</h3><br>
 <h3> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com//ADG-VIT/Portfolio/pull/14) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
-2. 💪 Opened PR [#2](https://github.com//ADG-VIT/Portfolio/pull/2) in [ADG-VIT/Portfolio](https://github.com//ADG-VIT/Portfolio)
+1. 🎉 Merged PR [#1](https://github.com//cryptus-neoxys/burger-builder/pull/1) in [cryptus-neoxys/burger-builder](https://github.com//cryptus-neoxys/burger-builder)
+2. 💪 Opened PR [#1](https://github.com//cryptus-neoxys/burger-builder/pull/1) in [cryptus-neoxys/burger-builder](https://github.com//cryptus-neoxys/burger-builder)
 <!--END_SECTION:activity-->
 
 </p>
