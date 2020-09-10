@@ -16,8 +16,8 @@ Sophomore at VIT, Vellore.</h3><br>
 <h3> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//cryptus-neoxys/burger-builder/pull/1) in [cryptus-neoxys/burger-builder](https://github.com//cryptus-neoxys/burger-builder)
-2. 💪 Opened PR [#1](https://github.com//cryptus-neoxys/burger-builder/pull/1) in [cryptus-neoxys/burger-builder](https://github.com//cryptus-neoxys/burger-builder)
+1. 🎉 Merged PR [#1](https://github.com//cryptus-neoxys/cryptus-neoxys.github.io/pull/1) in [cryptus-neoxys/cryptus-neoxys.github.io](https://github.com//cryptus-neoxys/cryptus-neoxys.github.io)
+2. 💪 Opened PR [#1](https://github.com//cryptus-neoxys/cryptus-neoxys.github.io/pull/1) in [cryptus-neoxys/cryptus-neoxys.github.io](https://github.com//cryptus-neoxys/cryptus-neoxys.github.io)
 <!--END_SECTION:activity-->
 
 </p>
