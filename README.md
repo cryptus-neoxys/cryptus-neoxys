@@ -1,8 +1,7 @@
 <p align = 'center'></p>
  <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100%>
 <h2 align='center'>About Me 🙋🏻‍♂️</h2>
-<p align='center'><h3 align='center'>A College Sophomore and Frontend Web Developer, interested in Fullstack Web Development and Creating End to End Projects.<br>
-Sophomore at VIT, Vellore.</h3><br>
+<p align='center'><h3 align='center'>A College Sophomore and Frontend Web Developer, interested in Fullstack Web Development and Creating End to End Projects.<br></h3>
 	 <ul><strong>
 	<li line-height="40px"><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m currently working on Frontend Web Development.</li>
 	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=35 width=35> I’m currently learning and React.</li>
@@ -21,8 +20,8 @@ Sophomore at VIT, Vellore.</h3><br>
 <!--END_SECTION:activity-->
 
 </p>
-<details>
-<summary> <strong><h3> 🛠 & 💻 Tools & Technologies </h3></strong> </summary>
+
+<strong><h3> 🛠 & 💻 Tools & Technologies </h3></strong>
 <table>
   <tbody>
     <tr valign="top">
@@ -71,21 +70,16 @@ Sophomore at VIT, Vellore.</h3><br>
     </tr>
   </tbody>
 </table>
-</details>
-
-<details>
-<summary> <strong><h3> 🌟 GitHub Stats </h3></strong> </summary>
+	
+ <strong><h3> 🌟 GitHub Stats </h3></strong>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
-</details>
 
-<details>
-	<summary> <strong><h3> 👨🏻‍💻 Most Used Languages </h3></strong></summary>
+<strong><h3> 👨🏻‍💻 Most Used Languages </h3></strong>
 <a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
-</details>
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
