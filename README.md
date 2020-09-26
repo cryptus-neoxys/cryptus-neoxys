@@ -15,8 +15,8 @@
 <h3> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//cryptus-neoxys/mini-Projects/pull/1) in [cryptus-neoxys/mini-Projects](https://github.com//cryptus-neoxys/mini-Projects)
-2. 🎉 Merged PR [#2](https://github.com//ADG-VIT/Learning-Web-Dev-2020/pull/2) in [ADG-VIT/Learning-Web-Dev-2020](https://github.com//ADG-VIT/Learning-Web-Dev-2020)
+1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/mini-Projects/pull/1) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+2. 🎉 Merged PR [#2](https://github.com/ADG-VIT/Learning-Web-Dev-2020/pull/2) in [ADG-VIT/Learning-Web-Dev-2020](https://github.com/ADG-VIT/Learning-Web-Dev-2020)
 <!--END_SECTION:activity-->
 
 </p>
