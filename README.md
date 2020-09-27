@@ -77,7 +77,7 @@
 </a>
 
 <strong><h3> 👨🏻‍💻 Most Used Languages </h3></strong>
-<a href="https://github.com/cryptus-neoxys/cryptus-neoxys">
+<a href="https://github.com/cryptus-neoxys">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
 </a>
 
