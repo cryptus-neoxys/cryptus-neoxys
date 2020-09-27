@@ -76,11 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 
-<strong><h3> 👨🏻‍💻 Most Used Languages </h3></strong>
-<a href="https://github.com/cryptus-neoxys">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact" alt="Top Languages" />
-</a>
-
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
 <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='45' weight='45'/></a>
