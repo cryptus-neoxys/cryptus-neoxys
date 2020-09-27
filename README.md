@@ -14,10 +14,8 @@
 
 <h3> Recent Activity </h3>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/mini-Projects/pull/1) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
-2. 🎉 Merged PR [#2](https://github.com/ADG-VIT/Learning-Web-Dev-2020/pull/2) in [ADG-VIT/Learning-Web-Dev-2020](https://github.com/ADG-VIT/Learning-Web-Dev-2020)
-<!--END_SECTION:activity-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </p>
 
@@ -75,6 +73,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
+
+[![Dev Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
