@@ -14,6 +14,12 @@
 
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#7](https://github.com/CodeChefVIT/Portfolio-Template/pull/7) in [CodeChefVIT/Portfolio-Template](https://github.com/CodeChefVIT/Portfolio-Template)
+2. 💪 Opened PR [#1](https://github.com/DiKwickley/gate-plan/pull/1) in [DiKwickley/gate-plan](https://github.com/DiKwickley/gate-plan)
+3. 💪 Opened PR [#1](https://github.com/DiKwickley/aniket/pull/1) in [DiKwickley/aniket](https://github.com/DiKwickley/aniket)
+4. 💪 Opened PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
+5. 💪 Opened PR [#7](https://github.com/CodeChefVIT/Portfolio-Template/pull/7) in [CodeChefVIT/Portfolio-Template](https://github.com/CodeChefVIT/Portfolio-Template)
+<!--END_SECTION:activity-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
