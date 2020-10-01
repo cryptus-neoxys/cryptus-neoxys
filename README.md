@@ -13,10 +13,9 @@
 </strong></ul>
 
 <h3> Recent Activity </h3>
+<!--START_SECTION:activity-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--START_SECTION:activity-->
 
 </p>
 
