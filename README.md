@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. ❌ Reopened PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
-2. ❌ Closed PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
-3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/2) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-4. ❌ Closed PR [#7](https://github.com/CodeChefVIT/Portfolio-Template/pull/7) in [CodeChefVIT/Portfolio-Template](https://github.com/CodeChefVIT/Portfolio-Template)
-5. 💪 Opened PR [#1](https://github.com/DiKwickley/gate-plan/pull/1) in [DiKwickley/gate-plan](https://github.com/DiKwickley/gate-plan)
+1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/3) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+2. ❌ Reopened PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
+3. ❌ Closed PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
+4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/2) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+5. ❌ Closed PR [#7](https://github.com/CodeChefVIT/Portfolio-Template/pull/7) in [CodeChefVIT/Portfolio-Template](https://github.com/CodeChefVIT/Portfolio-Template)
 
 
 <!--END_SECTION:activity-->
