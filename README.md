@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/3) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-2. ❌ Reopened PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
-3. ❌ Closed PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
-4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/2) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-5. ❌ Closed PR [#7](https://github.com/CodeChefVIT/Portfolio-Template/pull/7) in [CodeChefVIT/Portfolio-Template](https://github.com/CodeChefVIT/Portfolio-Template)
+1. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/mini-Projects/pull/2) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+2. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/mini-Projects/pull/3) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+3. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/mini-Projects/pull/4) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+4. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/3) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+5. ❌ Reopened PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
 
 
 <!--END_SECTION:activity-->
