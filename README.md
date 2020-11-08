@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/mini-Projects/pull/7) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
-2. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/mini-Projects/pull/6) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
-3. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/mini-Projects/pull/5) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
-4. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/5) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-5. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/4) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+1. 🎉 Merged PR [#1](https://github.com/Apurva-tech/Assist-U/pull/1) in [Apurva-tech/Assist-U](https://github.com/Apurva-tech/Assist-U)
+2. 💪 Opened PR [#1](https://github.com/Apurva-tech/Assist-U/pull/1) in [Apurva-tech/Assist-U](https://github.com/Apurva-tech/Assist-U)
+3. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/mini-Projects/pull/7) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+4. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/mini-Projects/pull/6) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+5. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/mini-Projects/pull/5) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
 
 
 <!--END_SECTION:activity-->
