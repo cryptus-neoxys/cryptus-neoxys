@@ -28,7 +28,7 @@
 
 </p>
 
-<strong><h3> 🛠 & 💻 Tools & Technologies </h3></strong>
+<strong><h3> 🛠 & 💻 Tools & Technologies</h3></strong>
 <table>
   <tbody>
     <tr valign="top">
