@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/11) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-2. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/10) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/9) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-4. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/7) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-5. ❌ Closed PR [#1](https://github.com/gkdhindsa/me/pull/1) in [gkdhindsa/me](https://github.com/gkdhindsa/me)
+1. 🎉 Merged PR [#14](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/14) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+2. 🎉 Merged PR [#13](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/13) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+3. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/11) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+4. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/10) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+5. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/9) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
 
 
 <!--END_SECTION:activity-->
