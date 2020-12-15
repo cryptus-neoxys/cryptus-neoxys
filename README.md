@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 
-[![Dev Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Dev Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
