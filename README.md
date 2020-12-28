@@ -1,6 +1,6 @@
 <p align = 'center'></p>
  <img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100%>
-<h2 align='center'>About Me 🙋🏻‍♂️</h2>
+<h2 align='center'>About Me🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing End to End Apllications.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m usually/mostly/currently working on Full Stack / JAMStack Web Development.</li>
