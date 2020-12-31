@@ -78,6 +78,9 @@
   </tbody>
 </table>
 
+<strong><h3> 🌟 Top Lanaguages </h3></strong>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
  <strong><h3> 🌟 GitHub Stats </h3></strong>
 <a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
