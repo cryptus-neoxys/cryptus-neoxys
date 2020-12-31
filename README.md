@@ -82,9 +82,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
-<a href="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<a align="center" href="https://github.com/cryptus-neoxys">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
 </a>
+
 
 <strong><h3>👨‍💻 Week's coding sum </h3></strong>
 [![Dev Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
