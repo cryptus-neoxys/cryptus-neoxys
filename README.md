@@ -83,8 +83,8 @@
 
  <strong><h3> 🌟 GitHub Stats </h3></strong>
 <a align="center" href="https://github.com/cryptus-neoxys">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
 </a>
 
 
