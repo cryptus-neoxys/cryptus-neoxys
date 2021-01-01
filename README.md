@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/vit-hack20-client/pull/3) in [cryptus-neoxys/vit-hack20-client](https://github.com/cryptus-neoxys/vit-hack20-client)
-2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/typeORM-basics/pull/1) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
-3. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx/pull/1) in [cryptus-neoxys/course-tracker-AirTalbeNetJsx](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx)
-4. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/vue-3-starter/pull/1) in [cryptus-neoxys/vue-3-starter](https://github.com/cryptus-neoxys/vue-3-starter)
-5. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/typeORM-basics/pull/2) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Learnig-Redux/pull/3) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
+2. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/vit-hack20-client/pull/3) in [cryptus-neoxys/vit-hack20-client](https://github.com/cryptus-neoxys/vit-hack20-client)
+3. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/typeORM-basics/pull/1) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+4. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx/pull/1) in [cryptus-neoxys/course-tracker-AirTalbeNetJsx](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx)
+5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/vue-3-starter/pull/1) in [cryptus-neoxys/vue-3-starter](https://github.com/cryptus-neoxys/vue-3-starter)
 
 
 <!--END_SECTION:activity-->
