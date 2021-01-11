@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/http-requests-module/pull/1) in [cryptus-neoxys/http-requests-module](https://github.com/cryptus-neoxys/http-requests-module)
-2. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/burger-builder/pull/2) in [cryptus-neoxys/burger-builder](https://github.com/cryptus-neoxys/burger-builder)
-3. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Learnig-Redux/pull/3) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
-4. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/vit-hack20-client/pull/3) in [cryptus-neoxys/vit-hack20-client](https://github.com/cryptus-neoxys/vit-hack20-client)
-5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/typeORM-basics/pull/1) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+1. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/mini-Projects/pull/10) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/http-requests-module/pull/1) in [cryptus-neoxys/http-requests-module](https://github.com/cryptus-neoxys/http-requests-module)
+3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/burger-builder/pull/2) in [cryptus-neoxys/burger-builder](https://github.com/cryptus-neoxys/burger-builder)
+4. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Learnig-Redux/pull/3) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
+5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/vit-hack20-client/pull/3) in [cryptus-neoxys/vit-hack20-client](https://github.com/cryptus-neoxys/vit-hack20-client)
 
 
 <!--END_SECTION:activity-->
