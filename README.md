@@ -5,7 +5,7 @@
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m usually/mostly/currently working on Full Stack / JAMStack Web Development.</li>
 	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=35 width=35> I’m currently learning DSA and competetive coding.</li>
-	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m looking to participate in competitions and Contributing to Open Source 🚀.</li>
+	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m working my way through Coding Competitions and Contributing to Open Source 🚀.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Competetive coding & DSA / Placement prep🏫.</li>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web design & Web Development 🕸.</li>
 	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
