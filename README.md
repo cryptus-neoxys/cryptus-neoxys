@@ -17,10 +17,10 @@
 
 
 1. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-2. 💪 Opened PR [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-3. ❌ Closed PR [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-4. 🗣 Commented on [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-5. 💪 Opened PR [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+2. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+3. 💪 Opened PR [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+4. ❌ Closed PR [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+5. 🗣 Commented on [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
 
 
 <!--END_SECTION:activity-->
