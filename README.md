@@ -16,11 +16,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-2. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-3. 💪 Opened PR [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-4. ❌ Closed PR [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-5. 🗣 Commented on [#758](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/758) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+1. ❗️ Opened issue [#2](https://github.com/skjha1/Competitive-Coding/issues/2) in [skjha1/Competitive-Coding](https://github.com/skjha1/Competitive-Coding)
+2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/online-recruitment/pull/1) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
+3. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+4. 🗣 Commented on [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+5. 💪 Opened PR [#786](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/786) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
 
 
 <!--END_SECTION:activity-->
