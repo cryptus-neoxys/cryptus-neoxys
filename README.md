@@ -15,11 +15,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#907](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/907) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-2. ❗️ Opened issue [#891](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/891) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
-3. 🗣 Commented on [#2](https://github.com/skjha1/Competitive-Coding/issues/2) in [skjha1/Competitive-Coding](https://github.com/skjha1/Competitive-Coding)
-4. ❗️ Opened issue [#2](https://github.com/skjha1/Competitive-Coding/issues/2) in [skjha1/Competitive-Coding](https://github.com/skjha1/Competitive-Coding)
-5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/online-recruitment/pull/1) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
+1. 🗣 Commented on [#840](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/840) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+2. 💪 Opened PR [#907](https://github.com/Nivedita967/Data-Structure-and-Algorithms/pull/907) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+3. ❗️ Opened issue [#891](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/891) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+4. 🗣 Commented on [#2](https://github.com/skjha1/Competitive-Coding/issues/2) in [skjha1/Competitive-Coding](https://github.com/skjha1/Competitive-Coding)
+5. ❗️ Opened issue [#2](https://github.com/skjha1/Competitive-Coding/issues/2) in [skjha1/Competitive-Coding](https://github.com/skjha1/Competitive-Coding)
 
 <!--END_SECTION:activity-->
 
