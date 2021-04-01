@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-2. 💪 Opened PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/Flask_Blog/pull/2) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-4. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/Flask_Blog/pull/1) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-5. 🗣 Commented on [#840](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/840) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/Learnig-Redux/pull/6) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
+2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+3. 💪 Opened PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/Flask_Blog/pull/2) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/Flask_Blog/pull/1) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
 
 <!--END_SECTION:activity-->
 
