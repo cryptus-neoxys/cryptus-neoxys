@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/Learnig-Redux/pull/6) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
-2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-3. 💪 Opened PR [#1](https://github.com/cryptus-neoxys/code-snippers/pull/1) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/Flask_Blog/pull/2) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/Flask_Blog/pull/1) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/code-snippers/pull/3) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+2. 💪 Opened PR [#3](https://github.com/cryptus-neoxys/code-snippers/pull/3) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+3. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/income-tracker/pull/5) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
+4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/code-snippers/pull/2) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+5. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/code-snippers/pull/2) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
 
 <!--END_SECTION:activity-->
 
