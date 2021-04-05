@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/code-snippers/pull/3) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-2. 💪 Opened PR [#3](https://github.com/cryptus-neoxys/code-snippers/pull/3) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-3. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/income-tracker/pull/5) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
-4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/code-snippers/pull/2) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-5. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/code-snippers/pull/2) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+1. 🗣 Commented on [#6](https://github.com/coderplex-org/coderplex-org/issues/6) in [coderplex-org/coderplex-org](https://github.com/coderplex-org/coderplex-org)
+2. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/code-snippers/pull/4) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+3. 💪 Opened PR [#4](https://github.com/cryptus-neoxys/code-snippers/pull/4) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+4. ❗️ Closed issue [#6](https://github.com/cryptus-neoxys/recipes/issues/6) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+5. 🗣 Commented on [#6](https://github.com/cryptus-neoxys/recipes/issues/6) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
 
 <!--END_SECTION:activity-->
 
