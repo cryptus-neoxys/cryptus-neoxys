@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
-2. ❌ Reopened PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
-3. ❌ Closed PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
-4. 💪 Opened PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
-5. ❗️ Reopened issue [#7](https://github.com/cryptus-neoxys/recipes/issues/7) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/waka-box/pull/1) in [cryptus-neoxys/waka-box](https://github.com/cryptus-neoxys/waka-box)
+2. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/waka-box/pull/2) in [cryptus-neoxys/waka-box](https://github.com/cryptus-neoxys/waka-box)
+3. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
+4. ❌ Reopened PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
+5. ❌ Closed PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
 
 <!--END_SECTION:activity-->
 
