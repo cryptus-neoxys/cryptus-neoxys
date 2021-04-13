@@ -19,8 +19,8 @@
 1. 🎉 Merged PR [#1](https://github.com/0x-45/saaraansh/pull/1) in [0x-45/saaraansh](https://github.com/0x-45/saaraansh)
 2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/waka-box/pull/1) in [cryptus-neoxys/waka-box](https://github.com/cryptus-neoxys/waka-box)
 3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/waka-box/pull/2) in [cryptus-neoxys/waka-box](https://github.com/cryptus-neoxys/waka-box)
-4. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
-5. ❌ Reopened PR [#1](https://github.com/cryptus-neoxys/concise/pull/1) in [cryptus-neoxys/concise](https://github.com/cryptus-neoxys/concise)
+4. ❗️ Reopened issue [#7](https://github.com/cryptus-neoxys/recipes/issues/7) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+5. 🗣 Commented on [#6](https://github.com/coderplex-org/coderplex-org/issues/6) in [coderplex-org/coderplex-org](https://github.com/coderplex-org/coderplex-org)
 
 <!--END_SECTION:activity-->
 
