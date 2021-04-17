@@ -48,10 +48,14 @@
 			</td>
 		</tr>
 		<tr>
-			<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			<td>
+				<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+			</td>
 		</tr>
 		<tr>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height=auto  alt="Monthly Contribution Graph" >
+			<td>
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height=auto  alt="Monthly Contribution Graph" >
+			</td>
 		</tr>
 		</a>
 	</table>
