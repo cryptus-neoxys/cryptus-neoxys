@@ -30,7 +30,7 @@
 <details>
 	<summary> <strong>🌟 Top Lanaguages</strong> </summary>
 	<p>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight" alt="Top Langs" />
+		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight" alt="Top Langs" />
 	</p>	
 </details>
 
