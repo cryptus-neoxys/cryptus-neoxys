@@ -37,13 +37,24 @@
 
 <details>
 	<summary><strong> 🌟 GitHub Stats </strong></summary>
-	<p>
+	<table>
 		<a align="center" href="https://github.com/cryptus-neoxys">
-		<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
-		<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
-		<img src="https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Contribution Graph" />
+		<tr>
+			<td>					
+				<img width="100%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+			</td>
+			<td>
+				<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+			</td>
+		</tr>
+		<tr>
+			<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+		</tr>
+		<tr>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height=auto  alt="Monthly Contribution Graph" >
+		</tr>
 		</a>
-	</p>	
+	</table>
 </details>
 
 <strong><h3>👨‍💻 Week's coding sum </h3></strong>
