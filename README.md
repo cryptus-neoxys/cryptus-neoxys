@@ -35,6 +35,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptus-neoxys&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
 </a>
+![https://github.com/cryptus-neoxys](https://activity-graph.herokuapp.com/graph?username=cryptus-neoxys&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true)
 
 <strong><h3>👨‍💻 Week's coding sum </h3></strong>
 [![Dev Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
