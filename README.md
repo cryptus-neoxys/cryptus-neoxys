@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/reddit-feed-react/pull/6) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
-2. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/reddit-feed-react/pull/7) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
-3. 💪 Opened PR [#7](https://github.com/cryptus-neoxys/reddit-feed-react/pull/7) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
-4. 🎉 Merged PR [#1](https://github.com/0x-45/saaraansh/pull/1) in [0x-45/saaraansh](https://github.com/0x-45/saaraansh)
-5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/waka-box/pull/1) in [cryptus-neoxys/waka-box](https://github.com/cryptus-neoxys/waka-box)
+1. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/code-snippers/pull/5) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+2. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/reddit-feed-react/pull/6) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+3. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/reddit-feed-react/pull/7) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+4. 💪 Opened PR [#7](https://github.com/cryptus-neoxys/reddit-feed-react/pull/7) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+5. 🎉 Merged PR [#1](https://github.com/0x-45/saaraansh/pull/1) in [0x-45/saaraansh](https://github.com/0x-45/saaraansh)
 
 <!--END_SECTION:activity-->
 
