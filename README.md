@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-2. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-3. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/psql/pull/1) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-4. 💪 Opened PR [#1](https://github.com/cryptus-neoxys/psql/pull/1) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-5. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/code-snippers/pull/5) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+1. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/online-recruitment/pull/2) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
+2. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/online-recruitment/pull/2) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
+3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
+4. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
+5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/psql/pull/1) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
 
 <!--END_SECTION:activity-->
 
