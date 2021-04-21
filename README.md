@@ -29,8 +29,7 @@
 
 
 <h3 align="left">🌐 Latest Tweets🐦</h3>
-<img src="
-https://github-readme-twitter.gazf.vercel.app/api?id=nodejs&layout=wide" />
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=cryptus_neoxys&layout=wide&show_retweet=off&show_reply=off" />
 
 <details>
 	<summary> <strong>🌟 Top Lanaguages</strong> </summary>
