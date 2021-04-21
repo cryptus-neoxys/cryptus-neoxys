@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/online-recruitment/pull/2) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
-2. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/online-recruitment/pull/2) in [cryptus-neoxys/online-recruitment](https://github.com/cryptus-neoxys/online-recruitment)
-3. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-4. 💪 Opened PR [#2](https://github.com/cryptus-neoxys/psql/pull/2) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
-5. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/psql/pull/1) in [cryptus-neoxys/psql](https://github.com/cryptus-neoxys/psql)
+1. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/reddit-feed-react/pull/8) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+2. 🎉 Merged PR [#32](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/32) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+3. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/income-tracker/pull/7) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
+4. 🎉 Merged PR [#15](https://github.com/cryptus-neoxys/mini-Projects/pull/15) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+5. 🎉 Merged PR [#16](https://github.com/cryptus-neoxys/mini-Projects/pull/16) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
 
 <!--END_SECTION:activity-->
 
