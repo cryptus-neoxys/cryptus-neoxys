@@ -16,11 +16,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx/pull/6) in [cryptus-neoxys/course-tracker-AirTalbeNetJsx](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx)
-2. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/reddit-feed-react/pull/8) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
-3. 🎉 Merged PR [#32](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/32) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-4. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/income-tracker/pull/7) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
-5. 🎉 Merged PR [#15](https://github.com/cryptus-neoxys/mini-Projects/pull/15) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+1. ❗️ Opened issue [#4166](https://github.com/tailwindlabs/tailwindcss/issues/4166) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx/pull/6) in [cryptus-neoxys/course-tracker-AirTalbeNetJsx](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx)
+3. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/reddit-feed-react/pull/8) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+4. 🎉 Merged PR [#32](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/32) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+5. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/income-tracker/pull/7) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
 
 <!--END_SECTION:activity-->
 
