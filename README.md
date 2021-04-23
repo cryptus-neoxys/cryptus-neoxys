@@ -3,14 +3,14 @@
 <h2 align='center'>Hey there🙋🏻‍♂️, I am Dev ✌🏻 </h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing End to End Apllications.<br></h3>
 	 <ul><strong>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=35 width=35> I’m usually working on Full-Stack/JAMStack Projects. I am currently learning Modern Backend Development</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=35 width=35> Last Project: <a href="https://snip.devsharma.live/">Code-Snippers</a> Current Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> </li>
-	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=35 width=35> I’m currently learning DSA and competetive coding.</li>
-	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=35 width=35> I’m working my way through Coding Competitions and Contributing to Open Source 🚀.</li>
-	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=35 width=35> I’m looking for help with Competetive coding & DSA / Placement prep🏫.</li>
-	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=35 width=35> Ask me about Web Development 🕸.</li>
-	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=35 width=35> Pronouns: Dev(eloper)</li>
-	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=35 width=35> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
+	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/JAMStack Projects. I am currently learning Modern Backend Development</li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://snip.devsharma.live/">Code-Snippers</a> Current Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> </li>
+	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning DSA and competetive coding.</li>
+	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through Coding Competitions and Contributing to Open Source 🚀.</li>
+	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with Competetive coding & DSA / Placement prep🏫.</li>
+	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> Ask me about Web Development 🕸.</li>
+	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=20 width=20> Pronouns: Dev(eloper)</li>
+	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=20 width=20> Fun fact: <em>Code that works on Friday may not work on monday</em></li>
 </strong></ul>
 
 <h3> Recent Activity </h3>
