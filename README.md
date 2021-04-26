@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#760](https://github.com/carloscuesta/gitmoji/issues/760) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/recipes/pull/10) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/recipes/pull/9) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-4. ❗️ Closed issue [#7](https://github.com/cryptus-neoxys/recipes/issues/7) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-5. 💪 Opened PR [#7](https://github.com/ankityddv/ankityddv.github.io/pull/7) in [ankityddv/ankityddv.github.io](https://github.com/ankityddv/ankityddv.github.io)
+1. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+2. 💪 Opened PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+3. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/Flask_Blog/pull/4) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+4. 💪 Opened PR [#4](https://github.com/cryptus-neoxys/Flask_Blog/pull/4) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Flask_Blog/pull/3) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
 
 <!--END_SECTION:activity-->
 
