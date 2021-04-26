@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/recipes/pull/10) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-2. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/recipes/pull/9) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-3. ❗️ Closed issue [#7](https://github.com/cryptus-neoxys/recipes/issues/7) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-4. 💪 Opened PR [#7](https://github.com/ankityddv/ankityddv.github.io/pull/7) in [ankityddv/ankityddv.github.io](https://github.com/ankityddv/ankityddv.github.io)
-5. ❗️ Opened issue [#760](https://github.com/carloscuesta/gitmoji/issues/760) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+1. 🗣 Commented on [#760](https://github.com/carloscuesta/gitmoji/issues/760) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+2. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/recipes/pull/10) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/recipes/pull/9) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+4. ❗️ Closed issue [#7](https://github.com/cryptus-neoxys/recipes/issues/7) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+5. 💪 Opened PR [#7](https://github.com/ankityddv/ankityddv.github.io/pull/7) in [ankityddv/ankityddv.github.io](https://github.com/ankityddv/ankityddv.github.io)
 
 <!--END_SECTION:activity-->
 
