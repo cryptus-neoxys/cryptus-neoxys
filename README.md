@@ -29,6 +29,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a node server to Vercel!](https://dev.to/cryptus_neoxys/deploy-a-node-server-to-vercel-4d3j)
+- [Deploy a node server to Vercel!](https://blog.devsharma.live/deploy-a-node-server-to-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
