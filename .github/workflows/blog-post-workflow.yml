@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0/10 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blog.devsharma.live/rss.xml"
+                feed_list: "https://dev.to/feed/cryptus_neoxys, https://blog.devsharma.live/rss.xml"
