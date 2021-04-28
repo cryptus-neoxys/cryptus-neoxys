@@ -26,6 +26,11 @@
 
 <!--END_SECTION:activity-->
 
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
 <h4>Currently working with</h4>
 <p>
@@ -123,11 +128,6 @@
 		</a>
 	</table>
 </details>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary>🌐 Latest Tweets🐦</summary>
