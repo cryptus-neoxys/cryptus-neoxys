@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-2. 💪 Opened PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-3. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/Flask_Blog/pull/4) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-4. 💪 Opened PR [#4](https://github.com/cryptus-neoxys/Flask_Blog/pull/4) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
-5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Flask_Blog/pull/3) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/Project-Manager/pull/6) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+2. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/Project-Manager/pull/5) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+3. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+4. 💪 Opened PR [#5](https://github.com/cryptus-neoxys/Flask_Blog/pull/5) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
+5. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/Flask_Blog/pull/4) in [cryptus-neoxys/Flask_Blog](https://github.com/cryptus-neoxys/Flask_Blog)
 
 <!--END_SECTION:activity-->
 
