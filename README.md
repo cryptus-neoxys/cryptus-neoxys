@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/cryptus-neoxys/recipes/pull/11) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-2. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/iReadIt/pull/5) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-3. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/iReadIt/pull/6) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-4. 🎉 Merged PR [#2](https://github.com/cryptus-neoxys/merry-cacti/pull/2) in [cryptus-neoxys/merry-cacti](https://github.com/cryptus-neoxys/merry-cacti)
-5. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/Project-Manager/pull/6) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+1. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/code-snippers/pull/6) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+2. 💪 Opened PR [#6](https://github.com/cryptus-neoxys/code-snippers/pull/6) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+3. 💪 Opened PR [#11](https://github.com/cryptus-neoxys/recipes/pull/11) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+4. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/iReadIt/pull/5) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
+5. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/iReadIt/pull/6) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
 
 <!--END_SECTION:activity-->
 
