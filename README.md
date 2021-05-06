@@ -29,7 +29,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing and setting up Redis](https://blog.devsharma.live/installing-and-setting-up-redis)
+- [How to install and set up Redis](https://blog.devsharma.live/how-to-install-and-set-up-redis)
 - [Deploy a node server to Vercel!](https://blog.devsharma.live/deploy-a-node-server-to-vercel)
 <!-- BLOG-POST-LIST:END -->
 
