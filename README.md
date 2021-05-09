@@ -29,6 +29,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Redis with Express](https://blog.devsharma.live/how-to-use-redis-with-express)
 - [How to install and set up Redis](https://blog.devsharma.live/how-to-install-and-set-up-redis)
 - [Deploy a node server to Vercel!](https://blog.devsharma.live/deploy-a-node-server-to-vercel)
 <!-- BLOG-POST-LIST:END -->
