@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/recipes/pull/12) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-2. 💪 Opened PR [#12](https://github.com/cryptus-neoxys/recipes/pull/12) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-3. 🎉 Merged PR [#6](https://github.com/cryptus-neoxys/code-snippers/pull/6) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-4. 💪 Opened PR [#6](https://github.com/cryptus-neoxys/code-snippers/pull/6) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-5. 💪 Opened PR [#11](https://github.com/cryptus-neoxys/recipes/pull/11) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+1. ❗️ Opened issue [#1](https://github.com/44t4nk1/kumo/issues/1) in [44t4nk1/kumo](https://github.com/44t4nk1/kumo)
+2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/graphql-chat/pull/1) in [cryptus-neoxys/graphql-chat](https://github.com/cryptus-neoxys/graphql-chat)
+3. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/Project-Manager/pull/7) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+4. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/Project-Manager/pull/4) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Project-Manager/pull/3) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
 
 <!--END_SECTION:activity-->
 
