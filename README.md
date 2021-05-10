@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/44t4nk1/kumo/issues/1) in [44t4nk1/kumo](https://github.com/44t4nk1/kumo)
-2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/graphql-chat/pull/1) in [cryptus-neoxys/graphql-chat](https://github.com/cryptus-neoxys/graphql-chat)
-3. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/Project-Manager/pull/7) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
-4. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/Project-Manager/pull/4) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
-5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/Project-Manager/pull/3) in [cryptus-neoxys/Project-Manager](https://github.com/cryptus-neoxys/Project-Manager)
+1. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/Learnig-Redux/pull/7) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
+2. ❗️ Opened issue [#5](https://github.com/jamesqquick/learn-build-teach-discord-bot/issues/5) in [jamesqquick/learn-build-teach-discord-bot](https://github.com/jamesqquick/learn-build-teach-discord-bot)
+3. 🎉 Merged PR [#13](https://github.com/cryptus-neoxys/recipes/pull/13) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+4. 💪 Opened PR [#13](https://github.com/cryptus-neoxys/recipes/pull/13) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+5. ❗️ Opened issue [#1](https://github.com/44t4nk1/kumo/issues/1) in [44t4nk1/kumo](https://github.com/44t4nk1/kumo)
 
 <!--END_SECTION:activity-->
 
