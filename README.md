@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/0x-45/web-frontend/pull/1) in [0x-45/web-frontend](https://github.com/0x-45/web-frontend)
-2. 💪 Opened PR [#1](https://github.com/0x-45/web-frontend/pull/1) in [0x-45/web-frontend](https://github.com/0x-45/web-frontend)
-3. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/income-tracker/pull/8) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
-4. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx/pull/7) in [cryptus-neoxys/course-tracker-AirTalbeNetJsx](https://github.com/cryptus-neoxys/course-tracker-AirTalbeNetJsx)
-5. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/vue-3-starter/pull/4) in [cryptus-neoxys/vue-3-starter](https://github.com/cryptus-neoxys/vue-3-starter)
+1. 🎉 Merged PR [#18](https://github.com/cryptus-neoxys/mini-Projects/pull/18) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+2. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/8) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
+3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/reddit-feed-react/pull/9) in [cryptus-neoxys/reddit-feed-react](https://github.com/cryptus-neoxys/reddit-feed-react)
+4. 🎉 Merged PR [#17](https://github.com/cryptus-neoxys/mini-Projects/pull/17) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
+5. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/Learnig-Redux/pull/8) in [cryptus-neoxys/Learnig-Redux](https://github.com/cryptus-neoxys/Learnig-Redux)
 
 <!--END_SECTION:activity-->
 
