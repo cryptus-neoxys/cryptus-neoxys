@@ -35,6 +35,15 @@
 - [Deploy a node server to Vercel!](https://blog.devsharma.live/deploy-a-node-server-to-vercel)
 <!-- BLOG-POST-LIST:END -->
 
+<details>
+	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
+	<p>
+		<a align="center" href="https://twitter.com/cryptus_neoxys">
+			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=cryptus_neoxys&layout=wide&show_retweet=off&show_reply=off" />
+		</a>	
+	</p>
+</details>
+
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
 <h4>Currently working with</h4>
 <p>
@@ -133,12 +142,6 @@
 	</table>
 </details>
 
-<details>
-<summary>🌐 Latest Tweets🐦</summary>
-   <a align="center" href="https://twitter.com/cryptus_neoxys">
-   	<img src="https://github-readme-twitter.gazf.vercel.app/api?id=cryptus_neoxys&layout=wide&show_retweet=off&show_reply=off" />
-   </a>
-</details>
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
@@ -151,3 +154,4 @@
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
 </p>
+
