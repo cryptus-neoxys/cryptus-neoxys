@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2720](https://github.com/education/GitHubGraduation-2021/pull/2720) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/merng/pull/7) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-3. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/merng/pull/4) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-4. 🎉 Merged PR [#18](https://github.com/cryptus-neoxys/mini-Projects/pull/18) in [cryptus-neoxys/mini-Projects](https://github.com/cryptus-neoxys/mini-Projects)
-5. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/8) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
+1. 🎉 Merged PR [#15](https://github.com/cryptus-neoxys/recipes/pull/15) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+2. 💪 Opened PR [#15](https://github.com/cryptus-neoxys/recipes/pull/15) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+3. 💪 Opened PR [#2720](https://github.com/education/GitHubGraduation-2021/pull/2720) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/merng/pull/7) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+5. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/merng/pull/4) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
 
 <!--END_SECTION:activity-->
 
