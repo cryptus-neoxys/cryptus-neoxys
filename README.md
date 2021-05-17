@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Ditching Linux for WSL 2](https://blog.devsharma.live/ditching-linux-for-wsl-2)
-- [How to setup Tailwind CSS jit with NextJS](https://blog.devsharma.live/how-to-setup-tailwind-css-jit-with-nextjs)
+- [How to setup Tailwind CSS JIT with NextJS](https://blog.devsharma.live/how-to-setup-tailwind-css-jit-with-nextjs)
 - [How to use Redis with Express](https://blog.devsharma.live/how-to-use-redis-with-express)
 - [How to install and set up Redis](https://blog.devsharma.live/how-to-install-and-set-up-redis)
 <!-- BLOG-POST-LIST:END -->
