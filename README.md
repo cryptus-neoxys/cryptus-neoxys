@@ -105,6 +105,8 @@
 
 </p>
 
+### Some Stats
+
 <table tableborder=0>
 	<tr>		
 		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=overview#year-list-container">✨ wakatime stats</a></th>
