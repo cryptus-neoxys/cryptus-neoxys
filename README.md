@@ -26,7 +26,7 @@
 
 <!--END_SECTION:activity-->
 
-### [Blogs posts](https://blog.devsharma.live/)
+### Blogs posts - [blog.devsharma.live](https://blog.devsharma.live/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Ditching Linux for WSL 2](https://blog.devsharma.live/ditching-linux-for-wsl-2)
