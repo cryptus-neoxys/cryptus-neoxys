@@ -152,7 +152,7 @@
 </details>
 
 
-<h2 align='center'>Connect with me  📫 </h2>
+<h3 align='center'>Connect with me  📫 </h3>
 <p align = 'center'>
 <a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Dev Sharma" height='45' weight='45' /></a>
 <a href = https://linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
