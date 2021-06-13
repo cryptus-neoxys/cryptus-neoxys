@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/cryptus-neoxys/recipes/pull/20) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-2. 💪 Opened PR [#12](https://github.com/WorseCompanies/WorseCompanies/pull/12) in [WorseCompanies/WorseCompanies](https://github.com/WorseCompanies/WorseCompanies)
-3. 🎉 Merged PR [#19](https://github.com/cryptus-neoxys/recipes/pull/19) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-4. 💪 Opened PR [#19](https://github.com/cryptus-neoxys/recipes/pull/19) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
-5. ❗️ Opened issue [#11](https://github.com/WorseCompanies/WorseCompanies/issues/11) in [WorseCompanies/WorseCompanies](https://github.com/WorseCompanies/WorseCompanies)
+1. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/merng/pull/12) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+2. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/merng/pull/11) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+3. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/merng/pull/10) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+4. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/merng/pull/9) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+5. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/merng/pull/8) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
 
 <!--END_SECTION:activity-->
 
