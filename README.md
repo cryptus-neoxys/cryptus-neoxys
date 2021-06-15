@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/merng/pull/12) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-2. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/merng/pull/11) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-3. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/merng/pull/10) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-4. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/merng/pull/9) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-5. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/merng/pull/8) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
+1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/prisma-redis-basics/pull/1) in [cryptus-neoxys/prisma-redis-basics](https://github.com/cryptus-neoxys/prisma-redis-basics)
+2. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/10) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
+3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/9) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
+4. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/income-tracker/pull/12) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
+5. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/income-tracker/pull/11) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
 
 <!--END_SECTION:activity-->
 
