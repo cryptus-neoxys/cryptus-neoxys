@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/prisma-redis-basics/pull/1) in [cryptus-neoxys/prisma-redis-basics](https://github.com/cryptus-neoxys/prisma-redis-basics)
-2. 🎉 Merged PR [#10](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/10) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
-3. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/9) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
-4. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/income-tracker/pull/12) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
-5. 🎉 Merged PR [#11](https://github.com/cryptus-neoxys/income-tracker/pull/11) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
+1. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/typeORM-basics/pull/5) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+2. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/typeORM-basics/pull/4) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+3. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/typeORM-basics/pull/3) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+4. 🎉 Merged PR [#8](https://github.com/cryptus-neoxys/code-snippers/pull/8) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
+5. 🎉 Merged PR [#7](https://github.com/cryptus-neoxys/code-snippers/pull/7) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
 
 <!--END_SECTION:activity-->
 
