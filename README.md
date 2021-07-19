@@ -1,12 +1,12 @@
 <p align = 'center'></p>
  <!-- img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100% -->
 <h2 align='center'>Hey there🙋🏻‍♂️, I am Dev ✌🏻 </h2>
-<p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing End to End Apllications.<br></h3>
+<p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing Apllications, End to End.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/JAMStack Projects. I am currently learning Modern Backend Development</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://snip.devsharma.live/">Code-Snippers</a> Current Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> </li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> Current Project: NULL </li>
 	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning Web Sockets and Material UI</a>.</li>
-	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through Coding Competitions and Contributing to Open Source 👨🏻‍💻.</li>
+	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with Distributed Systems and building scalable applications 🚀.</li>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
 	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey%2C+Dev+%E2%9C%8C%F0%9F%8F%BB">Ask me </a>about Web Development 🕸.
