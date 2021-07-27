@@ -4,7 +4,7 @@
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing Apllications, End to End.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/JAMStack Projects. I am currently learning Modern Backend Development</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> Current Project: NULL </li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> Currently Working on: Learning Go </li>
 	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning Web Sockets and Material UI</a>.</li>
 	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with Distributed Systems and building scalable applications 🚀.</li>
@@ -51,6 +51,7 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -74,7 +75,6 @@
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
