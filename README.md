@@ -18,9 +18,9 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/shrutayyyy/LetsMeet/pull/2) in [shrutayyyy/LetsMeet](https://github.com/shrutayyyy/LetsMeet)
-2. 🎉 Merged PR [#9](https://github.com/cryptus-neoxys/code-snippers/pull/9) in [cryptus-neoxys/code-snippers](https://github.com/cryptus-neoxys/code-snippers)
-3. 🎉 Merged PR [#5](https://github.com/cryptus-neoxys/typeORM-basics/pull/5) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
+1. 🎉 Merged PR [#13](https://github.com/cryptus-neoxys/iReadIt/pull/13) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
+2. 🎉 Merged PR [#12](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact/pull/12) in [cryptus-neoxys/serverlessL-list-o-links-FauNetReact](https://github.com/cryptus-neoxys/serverlessL-list-o-links-FauNetReact)
+3. 🎉 Merged PR [#14](https://github.com/cryptus-neoxys/merng/pull/14) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
 4. 🎉 Merged PR [#4](https://github.com/cryptus-neoxys/typeORM-basics/pull/4) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
 5. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/typeORM-basics/pull/3) in [cryptus-neoxys/typeORM-basics](https://github.com/cryptus-neoxys/typeORM-basics)
 
