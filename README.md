@@ -35,6 +35,9 @@
 - [How to use Redis with Express](https://blog.devsharma.live/how-to-use-redis-with-express)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 <details>
 	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
 	<p>
