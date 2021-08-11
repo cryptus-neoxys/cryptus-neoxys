@@ -19,4 +19,3 @@ jobs:
           SHOW_DAILY_COMMIT: "True"
           SHOW_WEEKLY_COMMIT: "False"
           SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
