@@ -26,7 +26,7 @@
 
 <!--END_SECTION:activity-->
 
-### Blogs posts - [blog.devsharma.live](https://blog.devsharma.live/)
+### Blogs posts at [blog.devsharma.live](https://blog.devsharma.live/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Setting up Nodejs with nvm on WSL 2](https://blog.devsharma.live/setting-up-nodejs-with-nvm-on-wsl-2)
