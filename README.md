@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/cryptus-neoxys/income-tracker/pull/13) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
-2. 🎉 Merged PR [#17](https://github.com/cryptus-neoxys/merng/pull/17) in [cryptus-neoxys/merng](https://github.com/cryptus-neoxys/merng)
-3. 🎉 Merged PR [#37](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/37) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-4. 🎉 Merged PR [#36](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/36) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
-5. 🎉 Merged PR [#35](https://github.com/cryptus-neoxys/ADG-Project-Manager/pull/35) in [cryptus-neoxys/ADG-Project-Manager](https://github.com/cryptus-neoxys/ADG-Project-Manager)
+1. 🎉 Merged PR [#21](https://github.com/cryptus-neoxys/recipes/pull/21) in [cryptus-neoxys/recipes](https://github.com/cryptus-neoxys/recipes)
+2. 🎉 Merged PR [#1](https://github.com/cryptus-neoxys/next-tailwind-tutorial/pull/1) in [cryptus-neoxys/next-tailwind-tutorial](https://github.com/cryptus-neoxys/next-tailwind-tutorial)
+3. 🎉 Merged PR [#3](https://github.com/cryptus-neoxys/next-ts-tailwind-template/pull/3) in [cryptus-neoxys/next-ts-tailwind-template](https://github.com/cryptus-neoxys/next-ts-tailwind-template)
+4. 🎉 Merged PR [#15](https://github.com/cryptus-neoxys/income-tracker/pull/15) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
+5. 🎉 Merged PR [#14](https://github.com/cryptus-neoxys/income-tracker/pull/14) in [cryptus-neoxys/income-tracker](https://github.com/cryptus-neoxys/income-tracker)
 
 <!--END_SECTION:activity-->
 
