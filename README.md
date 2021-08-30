@@ -1,6 +1,6 @@
 <p align = 'center'></p>
  <!-- img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100% -->
-<h2 align='center'>Hey there🙋🏻‍♂️, I am Dev ✌🏻 </h2>
+<h2 align='center'>Hey there🙋🏻‍♂️, I am Dev</h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web Developer. Developing Apllications, End to End.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/JAMStack/Backend Projects. I am currently learning Modern Backend Development</li>
