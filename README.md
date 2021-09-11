@@ -163,3 +163,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
 </p>
 
+```javascript
+if(youLiked(this.Readme)) {
+	⭐ && 🍴 this.repo;
+	return ^C + ^V;
+}
+```
