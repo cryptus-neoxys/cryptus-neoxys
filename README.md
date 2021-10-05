@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/cryptus-neoxys/iReadIt/pull/18) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-2. 🎉 Merged PR [#16](https://github.com/cryptus-neoxys/iReadIt/pull/16) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-3. 🎉 Merged PR [#15](https://github.com/cryptus-neoxys/iReadIt/pull/15) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-4. 🎉 Merged PR [#14](https://github.com/cryptus-neoxys/iReadIt/pull/14) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
-5. 🎉 Merged PR [#17](https://github.com/cryptus-neoxys/iReadIt/pull/17) in [cryptus-neoxys/iReadIt](https://github.com/cryptus-neoxys/iReadIt)
+1. 💪 Opened PR [#301](https://github.com/rituburman/hacktoberfest2020/pull/301) in [rituburman/hacktoberfest2020](https://github.com/rituburman/hacktoberfest2020)
+2. 💪 Opened PR [#615](https://github.com/TLE-MEC/Hack-CP/pull/615) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
+3. 💪 Opened PR [#600](https://github.com/TLE-MEC/Hack-CP/pull/600) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
+4. ❌ Closed PR [#1568](https://github.com/keshavsingh4522/hacktoberfest2021/pull/1568) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+5. 💪 Opened PR [#281](https://github.com/hctnm2/Open-Source-Enthusiast/pull/281) in [hctnm2/Open-Source-Enthusiast](https://github.com/hctnm2/Open-Source-Enthusiast)
 
 <!--END_SECTION:activity-->
 
