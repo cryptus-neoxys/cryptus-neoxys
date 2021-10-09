@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#301](https://github.com/rituburman/hacktoberfest2020/pull/301) in [rituburman/hacktoberfest2020](https://github.com/rituburman/hacktoberfest2020)
-2. 💪 Opened PR [#615](https://github.com/TLE-MEC/Hack-CP/pull/615) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
-3. 💪 Opened PR [#600](https://github.com/TLE-MEC/Hack-CP/pull/600) in [TLE-MEC/Hack-CP](https://github.com/TLE-MEC/Hack-CP)
-4. ❌ Closed PR [#1568](https://github.com/keshavsingh4522/hacktoberfest2021/pull/1568) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-5. 💪 Opened PR [#281](https://github.com/hctnm2/Open-Source-Enthusiast/pull/281) in [hctnm2/Open-Source-Enthusiast](https://github.com/hctnm2/Open-Source-Enthusiast)
+1. ❗️ Opened issue [#29](https://github.com/kvssankar/git-ultimate-cloner/issues/29) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+2. ❗️ Opened issue [#28](https://github.com/kvssankar/git-ultimate-cloner/issues/28) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+3. ❗️ Opened issue [#27](https://github.com/kvssankar/git-ultimate-cloner/issues/27) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+4. ❗️ Opened issue [#26](https://github.com/kvssankar/git-ultimate-cloner/issues/26) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+5. ❗️ Opened issue [#25](https://github.com/kvssankar/git-ultimate-cloner/issues/25) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
 
 <!--END_SECTION:activity-->
 
