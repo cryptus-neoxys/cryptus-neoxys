@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#29](https://github.com/kvssankar/git-ultimate-cloner/issues/29) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-2. ❗️ Opened issue [#28](https://github.com/kvssankar/git-ultimate-cloner/issues/28) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-3. ❗️ Opened issue [#27](https://github.com/kvssankar/git-ultimate-cloner/issues/27) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-4. ❗️ Opened issue [#26](https://github.com/kvssankar/git-ultimate-cloner/issues/26) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-5. ❗️ Opened issue [#25](https://github.com/kvssankar/git-ultimate-cloner/issues/25) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+1. ❗️ Opened issue [#41](https://github.com/kvssankar/git-ultimate-cloner/issues/41) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+2. 💪 Opened PR [#40](https://github.com/kvssankar/git-ultimate-cloner/pull/40) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+3. 🗣 Commented on [#30](https://github.com/kvssankar/git-ultimate-cloner/issues/30) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+4. ❗️ Opened issue [#29](https://github.com/kvssankar/git-ultimate-cloner/issues/29) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+5. ❗️ Opened issue [#28](https://github.com/kvssankar/git-ultimate-cloner/issues/28) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
 
 <!--END_SECTION:activity-->
 
