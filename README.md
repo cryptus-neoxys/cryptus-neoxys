@@ -9,7 +9,7 @@
 	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with Distributed System Design and building scalable applications 🚀.</li>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
-	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey%2C+Dev+%E2%9C%8C%F0%9F%8F%BB">Ask me </a>about Web Development 🕸.
+	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey+Dev+%F0%9F%91%8B%F0%9F%8F%BB">Ask me </a>about Web Development 🕸.
 	</li>
 	<li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=20 width=20> Pronouns: Dev(eloper)</li>
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=20 width=20> Fun fact: <em>Code that works on Friday may not work on Monday</em></li>
