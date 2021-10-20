@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/formulahendry/vscode-code-runner/issues/84) in [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)
-2. 💪 Opened PR [#44](https://github.com/kvssankar/git-ultimate-cloner/pull/44) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-3. 💪 Opened PR [#43](https://github.com/kvssankar/git-ultimate-cloner/pull/43) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-4. 💪 Opened PR [#42](https://github.com/kvssankar/git-ultimate-cloner/pull/42) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-5. ❗️ Opened issue [#41](https://github.com/kvssankar/git-ultimate-cloner/issues/41) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+1. 💪 Opened PR [#45](https://github.com/kvssankar/git-ultimate-cloner/pull/45) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+2. 🗣 Commented on [#41](https://github.com/kvssankar/git-ultimate-cloner/issues/41) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+3. ❗️ Closed issue [#23](https://github.com/kvssankar/git-ultimate-cloner/issues/23) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+4. 🗣 Commented on [#23](https://github.com/kvssankar/git-ultimate-cloner/issues/23) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+5. 🗣 Commented on [#84](https://github.com/formulahendry/vscode-code-runner/issues/84) in [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)
 
 <!--END_SECTION:activity-->
 
