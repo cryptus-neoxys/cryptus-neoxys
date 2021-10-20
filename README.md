@@ -42,7 +42,7 @@
 	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
 	<p>
 		<a align="center" href="https://twitter.com/cryptus_neoxys">
-			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=cryptus_neoxys&layout=wide&show_retweet=off&show_reply=off" />
+			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=cryptus_neoxys&layout=wide&show_retweet=off&show_reply=off?" />
 		</a>	
 	</p>
 </details>
@@ -110,8 +110,8 @@
 
 <table tableborder=0>
 	<tr>		
-		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=overview#year-list-container">✨ wakatime stats</a></th>
-		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=repositories">🌟 Top Lanaguages</a></th>
+		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=overview#year-list-container?">✨ wakatime stats</a></th>
+		<th width="50%"><a align="center" href="https://github.com/cryptus-neoxys?tab=repositories?">🌟 Top Lanaguages</a></th>
 	</tr>
 	<tr>
 		<td>					
@@ -145,7 +145,7 @@
 		</tr>
 		<tr colspan="2">
 			<td>
-				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai?"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
 		</a>
