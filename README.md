@@ -115,7 +115,7 @@
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="" alt="Wakatime Stats" />
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
 		</td>
 		<td>
 			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptus-neoxys&layout=compact&theme=tokyonight" alt="Top Langs" />
