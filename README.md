@@ -127,7 +127,6 @@
 <details>
 	<summary><strong> 🌟 GitHub Stats </strong></summary>
 	<table>
-		<a align="center" href="https://github.com/cryptus-neoxys">
 		<tr>
 			<td>					
 				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=cryptus-neoxys&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
@@ -148,7 +147,6 @@
 				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
-		</a>
 	</table>
 </details>
 
