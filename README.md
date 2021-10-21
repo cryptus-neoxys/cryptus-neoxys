@@ -145,7 +145,7 @@
 		</tr>
 		<tr colspan="2">
 			<td>
-				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai?"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cryptus-neoxys&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
 		</a>
