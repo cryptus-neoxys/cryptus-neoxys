@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#25](https://github.com/GDGVIT/vitty-extension/issues/25) in [GDGVIT/vitty-extension](https://github.com/GDGVIT/vitty-extension)
-2. 🗣 Commented on [#3](https://github.com/TheAlgorithms/Rust/issues/3) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
-3. ❗️ Opened issue [#46](https://github.com/kvssankar/git-ultimate-cloner/issues/46) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-4. 💪 Opened PR [#45](https://github.com/kvssankar/git-ultimate-cloner/pull/45) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-5. 🗣 Commented on [#41](https://github.com/kvssankar/git-ultimate-cloner/issues/41) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+1. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+2. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+3. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+4. ❗️ Opened issue [#25](https://github.com/GDGVIT/vitty-extension/issues/25) in [GDGVIT/vitty-extension](https://github.com/GDGVIT/vitty-extension)
+5. 🗣 Commented on [#3](https://github.com/TheAlgorithms/Rust/issues/3) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 
 <!--END_SECTION:activity-->
 
