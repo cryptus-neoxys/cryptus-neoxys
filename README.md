@@ -18,11 +18,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/cryptus-neoxys/sniffy/issues/1) in [cryptus-neoxys/sniffy](https://github.com/cryptus-neoxys/sniffy)
-2. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+1. 💪 Opened PR [#4](https://github.com/iamyajat/WhatsAppThem/pull/4) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+2. ❗️ Opened issue [#1](https://github.com/cryptus-neoxys/sniffy/issues/1) in [cryptus-neoxys/sniffy](https://github.com/cryptus-neoxys/sniffy)
 3. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
 4. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
-5. ❗️ Opened issue [#25](https://github.com/GDGVIT/vitty-extension/issues/25) in [GDGVIT/vitty-extension](https://github.com/GDGVIT/vitty-extension)
+5. 🗣 Commented on [#1](https://github.com/iamyajat/WhatsAppThem/issues/1) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
 
 <!--END_SECTION:activity-->
 
