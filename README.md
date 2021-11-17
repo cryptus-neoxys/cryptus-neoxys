@@ -29,10 +29,10 @@
 ### Blogs posts at [blog.devsharma.live](https://blog.devsharma.live/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Nest JS REST API Tutorial](https://blog.devsharma.live/nest-js-rest-api-tutorial)
 - [Developing with VS Code on WSL 2](https://blog.devsharma.live/developing-with-vs-code-on-wsl-2)
 - [Setting up Nodejs with nvm on WSL 2](https://blog.devsharma.live/setting-up-nodejs-with-nvm-on-wsl-2)
 - [Ditching Linux for WSL 2](https://blog.devsharma.live/ditching-linux-for-wsl-2)
-- [How to setup Tailwind CSS JIT with NextJS](https://blog.devsharma.live/how-to-setup-tailwind-css-jit-with-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:readme-info-->
