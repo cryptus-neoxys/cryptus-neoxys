@@ -20,11 +20,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#50](https://github.com/kvssankar/git-ultimate-cloner/issues/50) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-2. 🗣 Commented on [#30](https://github.com/kvssankar/git-ultimate-cloner/issues/30) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
-3. 💪 Opened PR [#2](https://github.com/finCLI/news-api/pull/2) in [finCLI/news-api](https://github.com/finCLI/news-api)
-4. 💪 Opened PR [#1](https://github.com/finCLI/news-api/pull/1) in [finCLI/news-api](https://github.com/finCLI/news-api)
-5. 💪 Opened PR [#49](https://github.com/kvssankar/git-ultimate-cloner/pull/49) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+1. ❌ Closed PR [#132](https://github.com/LunarVim/lunarvim.org/pull/132) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. 🗣 Commented on [#132](https://github.com/LunarVim/lunarvim.org/issues/132) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 💪 Opened PR [#132](https://github.com/LunarVim/lunarvim.org/pull/132) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ❗️ Opened issue [#50](https://github.com/kvssankar/git-ultimate-cloner/issues/50) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
+5. 🗣 Commented on [#30](https://github.com/kvssankar/git-ultimate-cloner/issues/30) in [kvssankar/git-ultimate-cloner](https://github.com/kvssankar/git-ultimate-cloner)
 
 <!--END_SECTION:activity-->
 
