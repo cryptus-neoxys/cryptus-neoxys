@@ -20,11 +20,11 @@
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/iamyajat/WhatsAppThem/issues/3) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
-2. 💪 Opened PR [#1](https://github.com/LucidMach/learn-typescript--bmi-app/pull/1) in [LucidMach/learn-typescript--bmi-app](https://github.com/LucidMach/learn-typescript--bmi-app)
-3. ❗️ Opened issue [#1](https://github.com/cryptus-neoxys/open-sauced-goals/issues/1) in [cryptus-neoxys/open-sauced-goals](https://github.com/cryptus-neoxys/open-sauced-goals)
+1. 💪 Opened PR [#111](https://github.com/lerna/website/pull/111) in [lerna/website](https://github.com/lerna/website)
+2. 🗣 Commented on [#3](https://github.com/iamyajat/WhatsAppThem/issues/3) in [iamyajat/WhatsAppThem](https://github.com/iamyajat/WhatsAppThem)
+3. 💪 Opened PR [#1](https://github.com/LucidMach/learn-typescript--bmi-app/pull/1) in [LucidMach/learn-typescript--bmi-app](https://github.com/LucidMach/learn-typescript--bmi-app)
 4. ❗️ Opened issue [#1](https://github.com/cryptus-neoxys/open-sauced-goals/issues/1) in [cryptus-neoxys/open-sauced-goals](https://github.com/cryptus-neoxys/open-sauced-goals)
-5. ❌ Closed PR [#132](https://github.com/LunarVim/lunarvim.org/pull/132) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ❗️ Opened issue [#1](https://github.com/cryptus-neoxys/open-sauced-goals/issues/1) in [cryptus-neoxys/open-sauced-goals](https://github.com/cryptus-neoxys/open-sauced-goals)
 
 <!--END_SECTION:activity-->
 
