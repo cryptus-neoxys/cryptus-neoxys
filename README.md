@@ -4,7 +4,7 @@
 <p align='center'><h3 align='center'>A College Senior, Fullstack Developer. Building Applications, End to End.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on building interesting/fun Projects. I am currently learning how to develop applications for scale</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20>Last Project: <a href="https://github.com/cryptus-neoxys/sniffy">sniffy</a>, <a href= https://github.com/cryptus-neoxys/blkchn_cli>blkchn_cli </a> Currently Working on: 
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20>Last Project: <a href="https://github.com/cryptus-neoxys/sniffy">sniffy</a>, <a href= https://github.com/cryptus-neoxys/blkchn_cli>blkchn_cli </a> Currently Working <s>on</s> at: 
 <!-- 		<a href="https://github.com/cryptus-neoxys/barista_cli">Barista CLI</a> -->
 		<a href="https://airbnb.com/">Airbnb</a> as a Software Engineer Intern
 	</li>
