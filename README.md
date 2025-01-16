@@ -8,7 +8,7 @@
 <!-- 		<a href="https://github.com/cryptus-neoxys/barista_cli">Barista CLI</a> -->
 <!-- 		<a href="https://github.com/NodeOps-app">Nodeops</a> as a Rockstar SWE 🎸 -->
 	</li>
-	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently: working as a Software Engineer with <a href="https://github.com/IntelXLabs-LLC">IntelXLabs</a></li>
+	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently: working as a Software Engineer at <a href="https://github.com/IntelXLabs-LLC">IntelXLabs</a></li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with Distributed System Design and building scalable applications 🚀</li>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
 	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey+Dev+%F0%9F%91%8B%F0%9F%8F%BB">Ask me </a>about Full Stack Development 🕸.
