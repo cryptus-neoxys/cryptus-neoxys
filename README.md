@@ -1,6 +1,10 @@
-### Hey there 🙋🏻‍♂️, I am Dev
+Hey there! I am Dev Sharma 👋🏻
 
-### Software Engineer. Building systems, for fun and scale 🚀🌛.
+🚀 I'm a software dev, passionate about building scalable systems and elegant code.
+
+🔧 Currently diving deep into backend architectures and cloud-native development.
+
+Senior Software Engineer [@IntelXLabs](https://github.com/IntelXLabs). Previosly [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
 ### Connect with me 📫
 
