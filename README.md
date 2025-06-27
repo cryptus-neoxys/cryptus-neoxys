@@ -4,7 +4,7 @@ Hey there! I am Dev Sharma 👋🏻
 
 🔧 Currently diving deep into backend architectures and cloud-native development.
 
-Senior Software Engineer [@IntelXLabs](https://github.com/IntelXLabs). Previosly [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
+Software Engineer. Previosly [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
 ### Connect with me 📫
 
