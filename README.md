@@ -4,7 +4,7 @@ Hey there! I am Dev Sharma 👋🏻
 
 🔧 Currently diving deep into Blockchain, Trading and Software Architecture.
 
-Software Engineer. Previosly [@NodeOps](https://github.com/NodeOps-app), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
+Software Engineer [@wildprotocol](https://github.com/wildprotocol). Previously [@NodeOps](https://github.com/NodeOps-app), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
 ### Connect with me 📫
 
