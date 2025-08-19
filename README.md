@@ -1,10 +1,10 @@
 Hey there! I am Dev Sharma 👋🏻
 
-🚀 I'm a software dev, passionate about building scalable systems and elegant code.
+🚀 I'm a software engineer, building systems that empower people.
 
-🔧 Currently diving deep into backend architectures and cloud-native development.
+🔧 Currently diving deep into Blockchain, Trading and Software Architecture.
 
-Software Engineer. Previosly [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
+Software Engineer. Previosly [@NodeOps](https://github.com/NodeOps-app), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
 ### Connect with me 📫
 
