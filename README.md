@@ -1,8 +1,8 @@
 Hey there! I am Dev Sharma 👋🏻
 
-🚀 I'm a software engineer, building systems that empower people.
+🚀 I'm a software engineer generalist, building systems end-to-end that empower people and teams.
 
-🔧 Currently diving deep into Blockchain, Trading and Software Architecture.
+🔧 Currently diving deep into Blockchain, Crypto Trading and designing robust, resilient and scalable Software Architecture.
 
 Software Engineer [@wildprotocol](https://github.com/wildprotocol). Previously [@NodeOps](https://github.com/NodeOps-app), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
