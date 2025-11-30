@@ -4,7 +4,7 @@ Hey there! I am Dev Sharma 👋🏻
 
 🔧 Currently exploring systems and (human) intelligence, diving deep into the intersection of AI, Blockchain and fundamentally Distributed Systems.
 
-Software Engineer. Previously [@wildprotocol](https://github.com/wildprotocol) [@NodeOps](https://github.com/NodeOps-app), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
+Software Engineer. Previously [@wildprotocol](https://github.com/wildprotocol), [@zomato](https://github.com/zomato), [@airbnb](https://github.com/airbnb)
 
 ### Connect with me 📫
 
