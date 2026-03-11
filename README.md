@@ -1,8 +1,8 @@
 Hey there! I am Dev Sharma 👋🏻
 
-🚀 I'm a software engineer generalist, building systems that empower people and teams.
+🚀 I'm a software engineer generalist, building systems that empower people.
 
-🔧 Currently exploring backend systems and (human) intelligence, diving into Blockchain and fundamentally Distributed Systems.
+🔧 Currently diving into Blockchain and fundamentally Distributed Systems.
 
 Software Engineer.
 
