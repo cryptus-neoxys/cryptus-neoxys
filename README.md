@@ -1,17 +1,29 @@
-Hey there! I am Dev Sharma 👋🏻
+# Dev Sharma
+Backend / distributed-systems engineer building AI agent infrastructure. Go, Rust, Python.
 
-🚀 I'm a software engineer generalist, building systems that empower people.
+Real-time data and streaming systems: Kafka + CDC, ClickHouse analytics over 100M+ rows,
+Redis/Postgres/Elasticsearch, K8s on AWS/GCP, observability that cut MTTD ~50%.
+Previously Airbnb (auditing backfill at scale) and Zomato (ads targeting, Kafka).
 
-🔧 Currently diving deep into fundamentally Distributed Systems.
+## Open source
+| Project | Work |
+|---|---|
+| ray-project/ray | Parquet footer statistics → global min/max + filtered count pushdown; Prometheus metrics IPv6 binding |
+| apache/iggy | Rust SDK — HTTP path escaping for user identifiers (CWE-style routing fix) |
+| langgenius/dify | 8 merged backend PRs; contributor on the LLMOps core |
 
-Software Engineer.
+## Building now
+AI-agent orchestration, evaluation and observability for multi-step engineering workflows.
 
-### Connect with me 📫
+## Selected projects
+- **f2chat** — FHE encrypted messaging in C++ (anti-PIR routing)
+- **blueberry-browser** — proactive agentic browser; RxDB vector memory + Dexie
+- **llms-hacking-fixing** — macOS menu-bar daemon, raw CGEventTap/IOKit HID work
+- **snapread-flash-speed** — RSVP speed reader (React/TS)
 
-<p>
-<a href = https://github.com/cryptus-neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Dev Sharma" height='32' weight='32' /></a>
-<a href = https://linkedin.com/in/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='32' weight='32'/></a> 
-<a href = https://twitter.com/cryptus_neoxys target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='32' weight='32'/></a>
-<br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
-</p>
+## Stack
+Go (gRPC, Fiber, Kafka, Redis) · Python (FastAPI, agents, LLMOps, evals) · Rust (Axum, SDK)
+· TypeScript/React/Next · C++ (FHE) · SQL (Postgres, ClickHouse, BigQuery)
+
+## Contact
+devsharma.live · linkedin.com/in/cryptus-neoxys · sharma.dev4242@gmail.com
